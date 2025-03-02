@@ -15,6 +15,8 @@ const petOwner = {
   food: ["Orange", "Mango", "JackFruit", "Apple"],
 };
 
+// Optional Chaining ?.
+
 // console.log(petOwner.name);
 // console.log(petOwner.contact.phone);
 // console.log(petOwner.pet.info.color);
